@@ -16,7 +16,7 @@ export const App = () => {
     date:"Oct 5,2026 -Nov 5,2026",
     journal:journal,
     edit:edit,
-    branch:"Profsouz"
+    branch:"profsouz"
     },
     {
       id:2,
